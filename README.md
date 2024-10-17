@@ -1,2 +1,3 @@
 # Računalniški-praktikum
-# haha
+## bližnjice
+- 

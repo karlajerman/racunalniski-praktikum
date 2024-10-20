@@ -1,4 +1,4 @@
-# Računalniški-praktikum
+# Računalniški praktikum
 ## bližnjice
 - delite line: shift, command, K
 - select current line: command, L
